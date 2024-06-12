@@ -1,0 +1,22 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; }
+  .button-container { text-align: center; }
+  .menu-button { 
+    background-color: darkcyan; 
+    color: white; 
+    padding: 15px 25px; 
+    margin: 10px; 
+    border: none; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    transition: background-color 0.3s; 
+    cursor: pointer; 
+
+  }
+  .menu-button:hover { background-color: darkcyan; }
+
+
+body {
+  background-color: rgb(163, 163, 163);
+}
